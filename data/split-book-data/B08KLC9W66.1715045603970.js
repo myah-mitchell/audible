@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Rural America is fed up and falling apart: what happens if they fight back?</p><p> </p> Learn more about your ad-choices at https://www.iheartpodcastnetwork.com<p>See omnystudio.com/listener for privacy information.</p>"; 

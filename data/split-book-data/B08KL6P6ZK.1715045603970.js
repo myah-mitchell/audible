@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Are you worried about the possibility of The Second American Civil War? In Episode 1 of, 'It Could Happen Here,' Robert explains why 2016 was the first time he started to seriously worry about it.</p><p> </p> Learn more about your ad-choices at https://www.iheartpodcastnetwork.com<p>See omnystudio.com/listener for privacy information.</p>"; 
